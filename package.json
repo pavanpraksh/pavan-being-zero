@@ -1,0 +1,19 @@
+{
+  "name": "pavan-being-zero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavanpraksh/pavan-being-zero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavanpraksh/pavan-being-zero/issues"
+  },
+  "homepage": "https://github.com/pavanpraksh/pavan-being-zero#readme"
+}
